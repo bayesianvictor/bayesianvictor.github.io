@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:victor.elvira@ed.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/victorelvira
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/victorelvira/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=0V_-F5sAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8967-4866
 
 interests:
   - Artificial Intelligence
@@ -183,4 +183,7 @@ awards:
 
 ## About Me
 
-Victor 2.0 is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Professor with a Personal Chair in Statistics and Data Science at the School of Mathematics, University of Edinburgh.
+I received the degree in Telecommunication Engineering, the M.Sc. degree in Communication Technologies, and the Ph.D. in Electrical Engineering from University of Cantabria.
+
+
