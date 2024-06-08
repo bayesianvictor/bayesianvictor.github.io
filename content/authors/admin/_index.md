@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Víctor Elvira
 
 # Name pronunciation (optional)
 # name_pronunciation:  
 
 # Full name (for SEO)
 first_name: Víctor
-last_name: Elv
+last_name: Elvira
 
 # Status emoji
 status:
