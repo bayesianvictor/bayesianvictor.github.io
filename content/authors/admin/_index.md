@@ -10,8 +10,8 @@ first_name: Víctor
 last_name: Elvira
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,13 +47,13 @@ profiles:
     url: https://orcid.org/0000-0002-8967-4866
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational statistics 
+  - Statistical signal processing
+  - Probabilistic machine learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Statistical signal processing
+    institution: University of Cantabria
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Telecommunications Engineering
+    institution: University of Cantabria
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,17 +72,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  #- area: BSc Artificial Intelligence
+    # institution: Massachusetts Institute of Technology
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -186,4 +186,5 @@ awards:
 I am a Professor with a Personal Chair in Statistics and Data Science at the School of Mathematics, University of Edinburgh.
 I received the degree in Telecommunication Engineering, the M.Sc. degree in Communication Technologies, and the Ph.D. in Electrical Engineering from University of Cantabria.
 
+ 
 
