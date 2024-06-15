@@ -1,14 +1,14 @@
 ---
-title: Multiple Importance Sampling ELBO and Deep Ensembles of Variational Approximations
+title: Multiple importance sampling elbo and deep ensembles of variational approximations
 authors:
 - Oskar Kviman
 - Harald Melin
 - Hazal Koptagel
-- Vı́ctor Elvira
+- Victor Elvira
 - Jens Lagergren
 date: '2022-01-01'
-publishDate: '2024-06-09T11:01:54.719476Z'
+publishDate: '2024-06-15T10:54:18.931145Z'
 publication_types:
-- article-journal
-publication: '*Artificial Intelligence and Statistics (AISTATS)*'
+- paper-conference
+publication: '*International Conference on Artificial Intelligence and Statistics*'
 ---
