@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks-blue.svg
+          filename: stacked-peaks-blue.svg # ''
           filters:
             brightness: 1.0
           size: cover
@@ -49,6 +49,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      count: 300
     design:
       view: citation
   - block: markdown

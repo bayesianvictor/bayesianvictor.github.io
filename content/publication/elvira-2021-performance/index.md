@@ -5,7 +5,7 @@ authors:
 - Joaqu\ń Miguez
 - Djuri\' ́Petar M
 date: '2021-01-01'
-publishDate: '2024-06-09T11:01:54.704816Z'
+publishDate: '2024-06-15T10:54:18.702679Z'
 publication_types:
 - article-journal
 publication: '*Statistics and Computing*'
