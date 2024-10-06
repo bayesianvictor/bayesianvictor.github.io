@@ -184,7 +184,7 @@ awards:
 ## About Me
 
 I am a Professor with a Personal Chair in Statistics and Data Science at the School of Mathematics, University of Edinburgh.
-I received the degree in Telecommunication Engineering, the M.Sc. degree in Communication Technologies, and the Ph.D. in Electrical Engineering from University of Cantabria.
+I received x and t, the M.Sc. degree in Communication Technologies, and the Ph.D. in Electrical Engineering from University of Cantabria.
 
  
 
