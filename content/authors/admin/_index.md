@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ps
+role: Professor in Statistics and Data Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,11 +47,14 @@ profiles:
     url: https://orcid.org/0000-0002-8967-4866
 
 interests:
-  - Co
+  - Computational statistics 
+  - Statistical signal processing
+  - Probabilistic machine learning
+  - Artificial intelligence
 
 education:
-  - area: asd
-    institution: Unasd
+  - area: PhD Statistical signal processing
+    institution: University of Cantabria
     date_start:  
     date_end:  
     summary: |
@@ -59,8 +62,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MSc 
-    institution: Un 
+  - area: MSc Telecommunications Engineering
+    institution: University of Cantabria
     date_start:  
     date_end:  
     summary: |
@@ -175,6 +178,9 @@ awards:
 ---
 
 ## About Me
- asd
+
+I am a Professor with a Personal Chair in Statistics and Data Science at the School of Mathematics, University of Edinburgh.
+I received the degree in Telecommunication Engineering, the M.Sc. degree in Communication Technologies, and the Ph.D. in PhD in Statistical Signal Processing from University of Cantabria.
+
  
 
