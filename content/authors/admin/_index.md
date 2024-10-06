@@ -50,28 +50,24 @@ interests:
   - Computational statistics 
   - Statistical signal processing
   - Probabilistic machine learning
+  - Artificial intelligence
 
 education:
   - area: PhD Statistical signal processing
     institution: University of Cantabria
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start:  
+    date_end:  
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+       
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Telecommunications Engineering
     institution: University of Cantabria
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start:  
+    date_end:  
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       
   #- area: BSc Artificial Intelligence
     # institution: Massachusetts Institute of Technology
     # date_start: 2016-01-01
@@ -184,7 +180,7 @@ awards:
 ## About Me
 
 I am a Professor with a Personal Chair in Statistics and Data Science at the School of Mathematics, University of Edinburgh.
-I received the degree in Telecommunication Engineering, the M.Sc. degree in Communication Technologies, and the Ph.D. in Electrical Engineering from University of Cantabria.
+I received the degree in Telecommunication Engineering, the M.Sc. degree in Communication Technologies, and the Ph.D. in PhD in Statistical Signal Processing from University of Cantabria.
 
  
 
