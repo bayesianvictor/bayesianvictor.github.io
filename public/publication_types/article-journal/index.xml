@@ -14,497 +14,497 @@
     
     <item>
       <title>An adaptive mixture view of particle filters</title>
-      <link>http://localhost:1313/publication/branchini-2024-adaptive/</link>
+      <link>http://localhost:1313/papers/branchini-2024-adaptive/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/branchini-2024-adaptive/</guid>
+      <guid>http://localhost:1313/papers/branchini-2024-adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Average Fusion with GM-PHD Filters Against FDI and DoS Attacks</title>
-      <link>http://localhost:1313/publication/yang-2024-hierarchical/</link>
+      <link>http://localhost:1313/papers/yang-2024-hierarchical/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yang-2024-hierarchical/</guid>
+      <guid>http://localhost:1313/papers/yang-2024-hierarchical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On variational inference and maximum likelihood estimation with the lambda-exponential family</title>
-      <link>http://localhost:1313/publication/guilmeau-2023-variational/</link>
+      <link>http://localhost:1313/papers/guilmeau-2023-variational/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/guilmeau-2023-variational/</guid>
+      <guid>http://localhost:1313/papers/guilmeau-2023-variational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validating hidden Markov models for seabird behavioural inference</title>
-      <link>http://localhost:1313/publication/akeresola-2024-validating/</link>
+      <link>http://localhost:1313/papers/akeresola-2024-validating/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/akeresola-2024-validating/</guid>
+      <guid>http://localhost:1313/papers/akeresola-2024-validating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A point mass proposal method for Bayesian state-space model fitting</title>
-      <link>http://localhost:1313/publication/llewellyn-2023-point/</link>
+      <link>http://localhost:1313/papers/llewellyn-2023-point/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/llewellyn-2023-point/</guid>
+      <guid>http://localhost:1313/papers/llewellyn-2023-point/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian data fusion with shared priors</title>
-      <link>http://localhost:1313/publication/wu-2023-bayesian/</link>
+      <link>http://localhost:1313/papers/wu-2023-bayesian/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wu-2023-bayesian/</guid>
+      <guid>http://localhost:1313/papers/wu-2023-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dimethyl fumarate-related immune and transcriptional signature is associated with clinical response in multiple sclerosis-treated patients</title>
-      <link>http://localhost:1313/publication/sanchez-2023-dimethyl/</link>
+      <link>http://localhost:1313/papers/sanchez-2023-dimethyl/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanchez-2023-dimethyl/</guid>
+      <guid>http://localhost:1313/papers/sanchez-2023-dimethyl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient bayes inference in neural networks through adaptive importance sampling</title>
-      <link>http://localhost:1313/publication/huang-2023-efficient/</link>
+      <link>http://localhost:1313/papers/huang-2023-efficient/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/huang-2023-efficient/</guid>
+      <guid>http://localhost:1313/papers/huang-2023-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradient-based adaptive importance samplers</title>
-      <link>http://localhost:1313/publication/elvira-2023-gradient/</link>
+      <link>http://localhost:1313/papers/elvira-2023-gradient/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2023-gradient/</guid>
+      <guid>http://localhost:1313/papers/elvira-2023-gradient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphs in State-Space Models for Granger Causality in Climate Science</title>
-      <link>http://localhost:1313/publication/elvira-2023-graphs/</link>
+      <link>http://localhost:1313/papers/elvira-2023-graphs/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2023-graphs/</guid>
+      <guid>http://localhost:1313/papers/elvira-2023-graphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information fusion via importance sampling</title>
-      <link>http://localhost:1313/publication/saucan-2023-information/</link>
+      <link>http://localhost:1313/papers/saucan-2023-information/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/saucan-2023-information/</guid>
+      <guid>http://localhost:1313/papers/saucan-2023-information/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intra-hour photovoltaic forecasting through a time-varying Markov switching model</title>
-      <link>http://localhost:1313/publication/rosen-2023-intra/</link>
+      <link>http://localhost:1313/papers/rosen-2023-intra/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rosen-2023-intra/</guid>
+      <guid>http://localhost:1313/papers/rosen-2023-intra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse Bayesian Estimation of Parameters in Linear-Gaussian State-Space Models</title>
-      <link>http://localhost:1313/publication/cox-2023-sparse/</link>
+      <link>http://localhost:1313/papers/cox-2023-sparse/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cox-2023-sparse/</guid>
+      <guid>http://localhost:1313/papers/cox-2023-sparse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>State-space models for ecological time-series data: Practical model-fitting</title>
-      <link>http://localhost:1313/publication/newman-2023-state/</link>
+      <link>http://localhost:1313/papers/newman-2023-state/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/newman-2023-state/</guid>
+      <guid>http://localhost:1313/papers/newman-2023-state/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance analysis of multiple importance sampling schemes</title>
-      <link>http://localhost:1313/publication/mukerjee-2023-variance/</link>
+      <link>http://localhost:1313/papers/mukerjee-2023-variance/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mukerjee-2023-variance/</guid>
+      <guid>http://localhost:1313/papers/mukerjee-2023-variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When ecological individual heterogeneity models and large data collide: An importance sampling approach</title>
-      <link>http://localhost:1313/publication/king-2023-ecological/</link>
+      <link>http://localhost:1313/papers/king-2023-ecological/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/king-2023-ecological/</guid>
+      <guid>http://localhost:1313/papers/king-2023-ecological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A principled stopping rule for importance sampling</title>
-      <link>http://localhost:1313/publication/agarwal-2022-principled/</link>
+      <link>http://localhost:1313/papers/agarwal-2022-principled/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/agarwal-2022-principled/</guid>
+      <guid>http://localhost:1313/papers/agarwal-2022-principled/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A sensor selection approach to maneuvering target tracking based on trajectory function of time</title>
-      <link>http://localhost:1313/publication/liu-2022-sensor/</link>
+      <link>http://localhost:1313/papers/liu-2022-sensor/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2022-sensor/</guid>
+      <guid>http://localhost:1313/papers/liu-2022-sensor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep state space model for predicting cryptocurrency price</title>
-      <link>http://localhost:1313/publication/sharma-2022-deep/</link>
+      <link>http://localhost:1313/papers/sharma-2022-deep/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sharma-2022-deep/</guid>
+      <guid>http://localhost:1313/papers/sharma-2022-deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalizing the balance heuristic estimator in multiple importance sampling</title>
-      <link>http://localhost:1313/publication/sbert-2022-generalizing/</link>
+      <link>http://localhost:1313/papers/sbert-2022-generalizing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sbert-2022-generalizing/</guid>
+      <guid>http://localhost:1313/papers/sbert-2022-generalizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphical inference in linear-Gaussian state-space models</title>
-      <link>http://localhost:1313/publication/elvira-2022-graphical/</link>
+      <link>http://localhost:1313/papers/elvira-2022-graphical/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2022-graphical/</guid>
+      <guid>http://localhost:1313/papers/elvira-2022-graphical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MCMC-driven importance samplers</title>
-      <link>http://localhost:1313/publication/llorente-2022-mcmc/</link>
+      <link>http://localhost:1313/papers/llorente-2022-mcmc/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/llorente-2022-mcmc/</guid>
+      <guid>http://localhost:1313/papers/llorente-2022-mcmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimized population monte carlo</title>
-      <link>http://localhost:1313/publication/elvira-2022-optimized/</link>
+      <link>http://localhost:1313/papers/elvira-2022-optimized/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2022-optimized/</guid>
+      <guid>http://localhost:1313/papers/elvira-2022-optimized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rethinking the effective sample size</title>
-      <link>http://localhost:1313/publication/elvira-2022-rethinking/</link>
+      <link>http://localhost:1313/papers/elvira-2022-rethinking/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2022-rethinking/</guid>
+      <guid>http://localhost:1313/papers/elvira-2022-rethinking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advances in importance sampling</title>
-      <link>http://localhost:1313/publication/elvira-2021-advances/</link>
+      <link>http://localhost:1313/papers/elvira-2021-advances/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2021-advances/</guid>
+      <guid>http://localhost:1313/papers/elvira-2021-advances/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An efficient sampling scheme for the eigenvalues of dual Wishart matrices</title>
-      <link>http://localhost:1313/publication/santamaria-2021-efficient/</link>
+      <link>http://localhost:1313/papers/santamaria-2021-efficient/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/santamaria-2021-efficient/</guid>
+      <guid>http://localhost:1313/papers/santamaria-2021-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compressed Monte Carlo with application in particle filtering</title>
-      <link>http://localhost:1313/publication/martino-2021-compressed/</link>
+      <link>http://localhost:1313/papers/martino-2021-compressed/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2021-compressed/</guid>
+      <guid>http://localhost:1313/papers/martino-2021-compressed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hamiltonian adaptive importance sampling</title>
-      <link>http://localhost:1313/publication/mousavi-2021-hamiltonian/</link>
+      <link>http://localhost:1313/papers/mousavi-2021-hamiltonian/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mousavi-2021-hamiltonian/</guid>
+      <guid>http://localhost:1313/papers/mousavi-2021-hamiltonian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple importance sampling for symbol error rate estimation of maximum-likelihood detectors in MIMO channels</title>
-      <link>http://localhost:1313/publication/elvira-2021-multiple/</link>
+      <link>http://localhost:1313/papers/elvira-2021-multiple/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2021-multiple/</guid>
+      <guid>http://localhost:1313/papers/elvira-2021-multiple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nearly consistent finite particle estimates in streaming importance sampling</title>
-      <link>http://localhost:1313/publication/koppel-2021-nearly/</link>
+      <link>http://localhost:1313/papers/koppel-2021-nearly/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/koppel-2021-nearly/</guid>
+      <guid>http://localhost:1313/papers/koppel-2021-nearly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the performance of particle filters with adaptive number of particles</title>
-      <link>http://localhost:1313/publication/elvira-2021-performance/</link>
+      <link>http://localhost:1313/papers/elvira-2021-performance/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2021-performance/</guid>
+      <guid>http://localhost:1313/papers/elvira-2021-performance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic modeling and inference for sequential space-varying blur identification</title>
-      <link>http://localhost:1313/publication/huang-2021-probabilistic/</link>
+      <link>http://localhost:1313/papers/huang-2021-probabilistic/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/huang-2021-probabilistic/</guid>
+      <guid>http://localhost:1313/papers/huang-2021-probabilistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recurrent dictionary learning for state-space models with an application in stock forecasting</title>
-      <link>http://localhost:1313/publication/sharma-2021-recurrent/</link>
+      <link>http://localhost:1313/papers/sharma-2021-recurrent/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sharma-2021-recurrent/</guid>
+      <guid>http://localhost:1313/papers/sharma-2021-recurrent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk and outcomes of COVID-19 in patients with multiple sclerosis</title>
-      <link>http://localhost:1313/publication/moreno-2021-risk/</link>
+      <link>http://localhost:1313/papers/moreno-2021-risk/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moreno-2021-risk/</guid>
+      <guid>http://localhost:1313/papers/moreno-2021-risk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic order and generalized weighted mean invariance</title>
-      <link>http://localhost:1313/publication/sbert-2021-stochastic/</link>
+      <link>http://localhost:1313/papers/sbert-2021-stochastic/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sbert-2021-stochastic/</guid>
+      <guid>http://localhost:1313/papers/sbert-2021-stochastic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A survey of Monte Carlo methods for parameter estimation</title>
-      <link>http://localhost:1313/publication/luengo-2020-survey/</link>
+      <link>http://localhost:1313/papers/luengo-2020-survey/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/luengo-2020-survey/</guid>
+      <guid>http://localhost:1313/papers/luengo-2020-survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive quadrature schemes for Bayesian inference via active learning</title>
-      <link>http://localhost:1313/publication/fernandez-2020-adaptive/</link>
+      <link>http://localhost:1313/papers/fernandez-2020-adaptive/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fernandez-2020-adaptive/</guid>
+      <guid>http://localhost:1313/papers/fernandez-2020-adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blind Kalman filtering for short-term load forecasting</title>
-      <link>http://localhost:1313/publication/sharma-2020-blind/</link>
+      <link>http://localhost:1313/papers/sharma-2020-blind/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sharma-2020-blind/</guid>
+      <guid>http://localhost:1313/papers/sharma-2020-blind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importance gaussian quadrature</title>
-      <link>http://localhost:1313/publication/elvira-2020-importance/</link>
+      <link>http://localhost:1313/papers/elvira-2020-importance/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2020-importance/</guid>
+      <guid>http://localhost:1313/papers/elvira-2020-importance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximate shannon sampling in importance sampling: Nearly consistent finite particle estimates</title>
-      <link>http://localhost:1313/publication/koppel-2019-approximate/</link>
+      <link>http://localhost:1313/papers/koppel-2019-approximate/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/koppel-2019-approximate/</guid>
+      <guid>http://localhost:1313/papers/koppel-2019-approximate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elucidating the auxiliary particle filter via multiple importance sampling [lecture notes]</title>
-      <link>http://localhost:1313/publication/elvira-2019-elucidating/</link>
+      <link>http://localhost:1313/papers/elvira-2019-elucidating/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2019-elucidating/</guid>
+      <guid>http://localhost:1313/papers/elvira-2019-elucidating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Multiple Importance Sampling</title>
-      <link>http://localhost:1313/publication/elvira-2019-generalized/</link>
+      <link>http://localhost:1313/papers/elvira-2019-generalized/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2019-generalized/</guid>
+      <guid>http://localhost:1313/papers/elvira-2019-generalized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple importance sampling for efficient symbol error rate estimation</title>
-      <link>http://localhost:1313/publication/elvira-2019-multiple/</link>
+      <link>http://localhost:1313/papers/elvira-2019-multiple/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2019-multiple/</guid>
+      <guid>http://localhost:1313/papers/elvira-2019-multiple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating MCMC algorithms</title>
-      <link>http://localhost:1313/publication/robert-2018-accelerating/</link>
+      <link>http://localhost:1313/papers/robert-2018-accelerating/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/robert-2018-accelerating/</guid>
+      <guid>http://localhost:1313/papers/robert-2018-accelerating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient linear fusion of partial estimators</title>
-      <link>http://localhost:1313/publication/luengo-2018-efficient/</link>
+      <link>http://localhost:1313/papers/luengo-2018-efficient/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/luengo-2018-efficient/</guid>
+      <guid>http://localhost:1313/papers/luengo-2018-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Group Importance Sampling for particle filtering and MCMC</title>
-      <link>http://localhost:1313/publication/martino-2018-group/</link>
+      <link>http://localhost:1313/papers/martino-2018-group/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2018-group/</guid>
+      <guid>http://localhost:1313/papers/martino-2018-group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Algorithms for Causality Retrieval in Atrial Fibrillation Intracavitary Electrograms</title>
-      <link>http://localhost:1313/publication/luengo-2018-hierarchical/</link>
+      <link>http://localhost:1313/papers/luengo-2018-hierarchical/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/luengo-2018-hierarchical/</guid>
+      <guid>http://localhost:1313/papers/luengo-2018-hierarchical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunophenotype and Transcriptome Profile of Patients with Multiple Sclerosis Treated with Fingolimod. Setting Up a Model for Prediction of Response in a 2-Year Translational Study</title>
-      <link>http://localhost:1313/publication/moreno-2018-immunophenotype/</link>
+      <link>http://localhost:1313/papers/moreno-2018-immunophenotype/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moreno-2018-immunophenotype/</guid>
+      <guid>http://localhost:1313/papers/moreno-2018-immunophenotype/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local-diffusion-based distributed SMC-PHD filtering using sensors with limited sensing range</title>
-      <link>http://localhost:1313/publication/li-2018-local/</link>
+      <link>http://localhost:1313/papers/li-2018-local/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2018-local/</guid>
+      <guid>http://localhost:1313/papers/li-2018-local/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple importance sampling characterization by weighted mean invariance</title>
-      <link>http://localhost:1313/publication/sbert-2018-multiple/</link>
+      <link>http://localhost:1313/papers/sbert-2018-multiple/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sbert-2018-multiple/</guid>
+      <guid>http://localhost:1313/papers/sbert-2018-multiple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Covariance Adaptation in Adaptive Importance Sampling</title>
-      <link>http://localhost:1313/publication/el-2018-robust/</link>
+      <link>http://localhost:1313/papers/el-2018-robust/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/el-2018-robust/</guid>
+      <guid>http://localhost:1313/papers/el-2018-robust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The recycling Gibbs sampler for efficient learning</title>
-      <link>http://localhost:1313/publication/martino-2018-recycling/</link>
+      <link>http://localhost:1313/papers/martino-2018-recycling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2018-recycling/</guid>
+      <guid>http://localhost:1313/papers/martino-2018-recycling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adapting the number of particles in sequential Monte Carlo methods through an online scheme for convergence assessment</title>
-      <link>http://localhost:1313/publication/elvira-2017-adapting/</link>
+      <link>http://localhost:1313/papers/elvira-2017-adapting/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2017-adapting/</guid>
+      <guid>http://localhost:1313/papers/elvira-2017-adapting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive importance sampling: the past, the present, and the future</title>
-      <link>http://localhost:1313/publication/bugallo-2017-adaptive/</link>
+      <link>http://localhost:1313/papers/bugallo-2017-adaptive/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bugallo-2017-adaptive/</guid>
+      <guid>http://localhost:1313/papers/bugallo-2017-adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cooperative parallel particle filters for online model selection and applications to urban mobility</title>
-      <link>http://localhost:1313/publication/martino-2017-cooperative/</link>
+      <link>http://localhost:1313/papers/martino-2017-cooperative/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2017-cooperative/</guid>
+      <guid>http://localhost:1313/papers/martino-2017-cooperative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective sample size for importance sampling based on discrepancy measures</title>
-      <link>http://localhost:1313/publication/martino-2017-effective/</link>
+      <link>http://localhost:1313/papers/martino-2017-effective/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2017-effective/</guid>
+      <guid>http://localhost:1313/papers/martino-2017-effective/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving population Monte Carlo: Alternative weighting and resampling schemes</title>
-      <link>http://localhost:1313/publication/elvira-2017-improving/</link>
+      <link>http://localhost:1313/papers/elvira-2017-improving/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2017-improving/</guid>
+      <guid>http://localhost:1313/papers/elvira-2017-improving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Layered adaptive importance sampling</title>
-      <link>http://localhost:1313/publication/martino-2017-layered/</link>
+      <link>http://localhost:1313/papers/martino-2017-layered/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2017-layered/</guid>
+      <guid>http://localhost:1313/papers/martino-2017-layered/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heretical multiple importance sampling</title>
-      <link>http://localhost:1313/publication/elvira-2016-heretical/</link>
+      <link>http://localhost:1313/papers/elvira-2016-heretical/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2016-heretical/</guid>
+      <guid>http://localhost:1313/papers/elvira-2016-heretical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Relationship between Online Optimizers and Recursive Filters</title>
-      <link>http://localhost:1313/publication/akyildiz-2016-relationship/</link>
+      <link>http://localhost:1313/papers/akyildiz-2016-relationship/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/akyildiz-2016-relationship/</guid>
+      <guid>http://localhost:1313/papers/akyildiz-2016-relationship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orthogonal parallel MCMC methods for sampling and optimization</title>
-      <link>http://localhost:1313/publication/martino-2016-orthogonal/</link>
+      <link>http://localhost:1313/papers/martino-2016-orthogonal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2016-orthogonal/</guid>
+      <guid>http://localhost:1313/papers/martino-2016-orthogonal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>http://localhost:1313/papers/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <guid>http://localhost:1313/papers/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -523,49 +523,49 @@
     
     <item>
       <title>An adaptive population importance sampler: Learning from uncertainty</title>
-      <link>http://localhost:1313/publication/martino-2015-adaptive/</link>
+      <link>http://localhost:1313/papers/martino-2015-adaptive/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2015-adaptive/</guid>
+      <guid>http://localhost:1313/papers/martino-2015-adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient multiple importance sampling estimators</title>
-      <link>http://localhost:1313/publication/elvira-2015-efficient/</link>
+      <link>http://localhost:1313/papers/elvira-2015-efficient/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2015-efficient/</guid>
+      <guid>http://localhost:1313/papers/elvira-2015-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metropolis sampling</title>
-      <link>http://localhost:1313/publication/martino-2014-metropolis/</link>
+      <link>http://localhost:1313/papers/martino-2014-metropolis/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martino-2014-metropolis/</guid>
+      <guid>http://localhost:1313/papers/martino-2014-metropolis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analog antenna combining in transmit correlated channels: Transceiver design and performance evaluation</title>
-      <link>http://localhost:1313/publication/elvira-2012-analog/</link>
+      <link>http://localhost:1313/papers/elvira-2012-analog/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elvira-2012-analog/</guid>
+      <guid>http://localhost:1313/papers/elvira-2012-analog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAC and baseband processors for RF-MIMO WLAN</title>
-      <link>http://localhost:1313/publication/stamenkovic-2011-mac/</link>
+      <link>http://localhost:1313/papers/stamenkovic-2011-mac/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stamenkovic-2011-mac/</guid>
+      <guid>http://localhost:1313/papers/stamenkovic-2011-mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-Cost and Compact RF-MIMO Transceivers</title>
-      <link>http://localhost:1313/publication/santamaria-2010-low/</link>
+      <link>http://localhost:1313/papers/santamaria-2010-low/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/santamaria-2010-low/</guid>
+      <guid>http://localhost:1313/papers/santamaria-2010-low/</guid>
       <description></description>
     </item>
     

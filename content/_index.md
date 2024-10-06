@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+       # text: Download CV
+       # url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -40,6 +40,15 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
+  - block: markdown
+    id: awards
+    content:
+      title: 'Awards'
+      subtitle: ''
+      folders:
+        - awards
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
@@ -47,7 +56,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - papers
         exclude_featured: false
       count: 300
     design:
@@ -58,7 +67,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        Text on research
+        Text on research dsfdsfdfsdf 
     design:
       columns: '1'
 
