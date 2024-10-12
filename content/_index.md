@@ -48,15 +48,17 @@ sections:
       text: |-
         I have received the following awards and fellowships.
             <ul>
-              <li>EURASIP Early Career Award (2024) by the  <a href="https://eurasip.org/society-awards/"> <em> European Society of Signal Processing (EURASIP)</em></a>.</li>
-              <li> Leverhulme Research Fellowship by the <a href="https://www.leverhulme.ac.uk/"> <em> Leverhulme Trust</em></a> (2022-2023).</li><span class="right"><br/></span>
-              <li> Fellow of <a href="https://www.turing.ac.uk/"> <em>The Alan Turing Institute</em></a> (2021-2023).</li><span class="right"><br/></span>
-              <!--<li>  PI of PISCES (2018-2023), ANR starting grant funded by the French <a href="http://www.agence-nationale-recherche.fr/"> <em>Agénce National de Recherche (ANR)</em></a>.</li> <span class="right"><br/></span>-->
-              <li> Fulbright Research Fellowship (2017-2018), funded by the <a href="http://fulbright-france.org/en">  French-American Fulbright Commision</a>.</li><span class="right"><br/></span>
-              <li> Marie Curie Fellowship and PRESTIGE Fellowship (2017-2018), through the Marie Curie Actions of the European Union’s Seventh Framework Programme and the PRESTIGE programme coordinated by  <a href="https://www.campusfrance.org/en"> Campus France</a>.</li><span class="right"><br/>
+              <li> EURASIP Early Career Award (2024) by the  <a href="https://eurasip.org/society-awards/"> <em> European Society of Signal Processing (EURASIP)</em></a>.</li>
+              <li> ELLIS Fellow (since 2024) by the  <a href="https://ellis.eu/"> <em> European Laboratory for Learning and Intelligent Systems (ELLIS Society)</em></a>.</li>
+              <li> Leverhulme Research Fellowship by the <a href="https://www.leverhulme.ac.uk/"> <em> Leverhulme Trust</em></a> (2022-2023).</li> 
+              <li> Fellow of <a href="https://www.turing.ac.uk/"> <em>The Alan Turing Institute</em></a> (2021-2023).</li>
+              <!--<li>  PI of PISCES (2018-2023), ANR starting grant funded by the French <a href="http://www.agence-nationale-recherche.fr/"> <em>Agénce National de Recherche (ANR)</em></a>.</li>--> 
+              <li> Fulbright Research Fellowship (2017-2018), funded by the <a href="http://fulbright-france.org/en">  French-American Fulbright Commision</a>.</li> 
+              <li> Marie Curie Fellowship and PRESTIGE Fellowship (2017-2018), through the Marie Curie Actions of the European Union’s Seventh Framework Programme.</li> 
             </ul>
             <img src="logos/eurasip_logo.png?raw=true" width="180" />
-            <img src="logos/LH.jpeg?raw=true" width="180" /> 
+            <img src="logos/ellis_logo2_640_transparent.png?raw=true" width="180" />
+            <img src="logos/LH.jpeg?raw=true" width="180" />  
             <img src="logos/turing_logo.png?raw=true" width="120" />
             <img src="logos/ANR_logo.jpg" width="100" alt="logo"/>
             <img src="logos/fulbright_logo.png" width="180" alt="logo"/>
