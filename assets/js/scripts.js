@@ -3,7 +3,7 @@ document.getElementById('currentYear').textContent = new Date().getFullYear();
 
 // Load the navbar from nav.html into the placeholder
 function loadNavbar() {
-    console.log('Trying to load navbar...');
+    console.log("Attempting to fetch the navbar...");
     fetch('nav.html')
         .then(response => {
             if (!response.ok) {
@@ -12,9 +12,12 @@ function loadNavbar() {
             return response.text();
         })
         .then(data => {
-            console.log('Navbar loaded successfully');
+            console.log("Navbar successfully fetched!");
             document.getElementById('navbar-placeholder').innerHTML = data;
         })
-        .catch(error => console.log('Error loading the navbar:', error));
+        .catch(error => {
+            console.error("Error fetching the navbar:", error);
+        });
 }
+
 window.onload = loadNavbar;
