@@ -1,5 +1,5 @@
 // Automatic year
-document.getElementById('currentYear').textContent = new Date().getFullYear();
+// document.getElementById('currentYear').textContent = new Date().getFullYear();
 
 // Load the navbar from nav.html into the placeholder
 function loadNavbar() {
@@ -21,3 +21,25 @@ function loadNavbar() {
 }
 
 window.onload = loadNavbar;
+
+
+
+// Load the footer from footer.html into the placeholder
+function loadFooter() {
+    fetch('footer.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('footer-placeholder').innerHTML = data;
+            // Update the year once the footer is loaded
+            const currentYearElement = document.getElementById('currentYear');
+            if (currentYearElement) {
+                currentYearElement.textContent = new Date().getFullYear();
+            }
+        })
+        .catch(error => console.error("Error loading footer:", error));
+}
+
+window.onload = function() {
+    loadNavbar();
+    loadFooter();
+};
