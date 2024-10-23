@@ -55,3 +55,16 @@ footer {
 footer p {
     margin: 0;
 }
+
+/* Social Icons */
+
+.social-icons a {
+    font-size: 1.5rem;               /* Default size of the icons */
+    color: #FFF;                     /* Default color for the icons */
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth color and size transition */
+}
+
+.social-icons a:hover i {
+    color: #007bff;                  /* Change color on hover (Bootstrap primary color) */
+    transform: scale(1.2);           /* Increase icon size by 20% on hover */
+}
