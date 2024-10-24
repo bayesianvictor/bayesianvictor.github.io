@@ -35,6 +35,10 @@ function loadFooter() {
             if (currentYearElement) {
                 currentYearElement.textContent = new Date().getFullYear();
             }
+            // const currentYearElement = document.getElementById('currentDate');
+            // if (currentYearElement) {
+            //     currentYearElement.textContent = new Date().getSeconds();
+            // }
         })
         .catch(error => console.error("Error loading footer:", error));
 }
